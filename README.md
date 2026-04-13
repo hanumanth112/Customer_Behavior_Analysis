@@ -102,6 +102,9 @@ This project covers:
 * Business-focused KPIs
 * Easy-to-understand insights
 
+<img width="1905" height="999" alt="image" src="https://github.com/user-attachments/assets/2cdcbec0-5b1c-4347-a49b-1e3e367b801a" />
+
+
 ---
 
 ## 📈 Key Insights
